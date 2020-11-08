@@ -52,7 +52,7 @@ const room = Room.join('desired-participant-id', 'preexisting-room-id')
 
 // OR
 
-const room = Room.create('desired-participant-id', 'new-room-id')
+const room = Room.create('desired-participant-id', 'new-room-id', initialState)
 ```
 
 ##### Listening for events
