@@ -1,5 +1,6 @@
 ![Rooms logo](./static/rooms.png)
 <br/>
+
 _Rooms_ is a frontend library for enabling multi-user sessions (multiplayer games, chatrooms, etc) without any backends beyond [ICE servers](https://webrtc.org/getting-started/peer-connections#ice_candidates). With _Rooms_, developers would only have to write frontend code and throw it onto a CDN to create a functional group experience.*
 
 As of November 2020, _Rooms_ is still in early development.
