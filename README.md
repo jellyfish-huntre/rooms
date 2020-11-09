@@ -5,7 +5,7 @@ _Rooms_ is a frontend library for enabling multi-user sessions (multiplayer game
 
 As of November 2020, _Rooms_ is still in early development.
 
-\* - Developers may want to host their own ICE servers. Still, the developer experience has the potential to be serverless due to the availability of free, public ICE servers.
+\* - Developers may want to host their own ICE servers. Still, the developer experience has the potential to be serverless due to the availability of free, live ICE servers and public implementations.
 
 ### Design
 
